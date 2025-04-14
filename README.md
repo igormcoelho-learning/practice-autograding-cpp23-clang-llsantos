@@ -9,11 +9,10 @@ To build this activity, use CMake 4.0 with ninja. Tested on compilers GCC 15 and
 **IMPORTANT:** If autograding (GitHub Actions) doesn't start for you, *check again the Invitation Link for
 the activity* and hit the link named **update**.
 
-If you want to practice this activity, just follow this link: (TODO: update)
+If you want to practice this activity, just follow this link: (DONE)
 
 ## Lucas Lisboa dos Santos
 
-**Lucas Lisboa dos Santos**
 
 ## Problem Description
 
